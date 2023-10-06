@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 305aa25cbf01ed94aab05c3c392ddc6a
+timeCreated: 1524394535
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: pCube20
+    100002: pCube21
+    100004: pCube22
+    100006: pCube23
+    100008: pCube24
+    100010: pCylinder1
+    100012: polySurface1
+    100014: polySurface2
+    100016: polySurface3
+    100018: polySurface4
+    100020: polySurface5
+    100022: polySurface6
+    100024: polySurface7
+    100026: polySurface8
+    100028: pSphere2
+    100030: pSphere3
+    100032: //RootNode
+    100034: ArmsNGun
+    100036: BackPack
+    100038: Body
+    100040: Head
+    100042: L_Foot
+    100044: L_Heel
+    100046: L_Leg
+    100048: L_Leg 1
+    100050: L_Shoulder
+    100052: R_Foot
+    100054: R_Heel
+    100056: R_Leg
+    100058: R_Leg 1
+    100060: R_Shoulder
+    100062: Soldier
+    400000: pCube20
+    400002: pCube21
+    400004: pCube22
+    400006: pCube23
+    400008: pCube24
+    400010: pCylinder1
+    400012: polySurface1
+    400014: polySurface2
+    400016: polySurface3
+    400018: polySurface4
+    400020: polySurface5
+    400022: polySurface6
+    400024: polySurface7
+    400026: polySurface8
+    400028: pSphere2
+    400030: pSphere3
+    400032: //RootNode
+    400034: ArmsNGun
+    400036: BackPack
+    400038: Body
+    400040: Head
+    400042: L_Foot
+    400044: L_Heel
+    400046: L_Leg
+    400048: L_Leg 1
+    400050: L_Shoulder
+    400052: R_Foot
+    400054: R_Heel
+    400056: R_Leg
+    400058: R_Leg 1
+    400060: R_Shoulder
+    400062: Soldier
+    2300000: pCube20
+    2300002: pCube23
+    2300004: pCube24
+    2300006: pCylinder1
+    2300008: polySurface1
+    2300010: polySurface3
+    2300012: polySurface5
+    2300014: polySurface6
+    2300016: polySurface7
+    2300018: polySurface8
+    2300020: pSphere2
+    2300022: pSphere3
+    2300024: ArmsNGun
+    2300026: BackPack
+    2300028: Body
+    2300030: Head
+    2300032: L_Foot
+    2300034: L_Heel
+    2300036: L_Leg 1
+    2300038: L_Shoulder
+    2300040: R_Foot
+    2300042: R_Heel
+    2300044: R_Leg 1
+    2300046: R_Shoulder
+    3300000: pCube20
+    3300002: pCube23
+    3300004: pCube24
+    3300006: pCylinder1
+    3300008: polySurface1
+    3300010: polySurface3
+    3300012: polySurface5
+    3300014: polySurface6
+    3300016: polySurface7
+    3300018: polySurface8
+    3300020: pSphere2
+    3300022: pSphere3
+    3300024: ArmsNGun
+    3300026: BackPack
+    3300028: Body
+    3300030: Head
+    3300032: L_Foot
+    3300034: L_Heel
+    3300036: L_Leg 1
+    3300038: L_Shoulder
+    3300040: R_Foot
+    3300042: R_Heel
+    3300044: R_Leg 1
+    3300046: R_Shoulder
+    4300000: pCylinder1
+    4300002: pSphere2
+    4300004: pSphere3
+    4300006: pCube20
+    4300008: polySurface6
+    4300010: polySurface5
+    4300012: polySurface3
+    4300014: polySurface8
+    4300016: polySurface7
+    4300018: polySurface1
+    4300020: pCube23
+    4300022: pCube24
+    4300024: Head
+    4300026: ArmsNGun
+    4300028: L_Leg
+    4300030: L_Heel
+    4300032: L_Foot
+    4300034: R_Leg
+    4300036: R_Heel
+    4300038: R_Foot
+    4300040: BackPack
+    4300042: R_Shoulder
+    4300044: L_Shoulder
+    4300046: Body
+    7400000: Idle
+    7400002: Shooting
+    7400004: No
+    7400006: Yes
+    7400008: WalkCycle
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyes
+    second: {fileID: 2100000, guid: 9477c47117dee0141b8ef03f897959c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: helmetStrap
+    second: {fileID: 2100000, guid: b0db6c82a0776ab47835ae209bb7c681, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 1b1569a6ccd18564a80a4dd55575c83e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: a1c26597f0651a948a41aa0f4ddaf663, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: c5c70a786905f0a44b785bafe336db8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 9676c69a13d6d7148bdd0b121cb3846c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: 84835ff954bed92429d8d0d77b68d42d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: cb6ed62c5c855c14295a4c04b1f6d2d5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shooting
+      takeName: Take 001
+      firstFrame: 26
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: No
+      takeName: Take 001
+      firstFrame: 32
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Yes
+      takeName: Take 001
+      firstFrame: 51
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkCycle
+      takeName: Take 001
+      firstFrame: 76
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Soldier
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
